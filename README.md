@@ -1,4 +1,4 @@
-[![Thisaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaruGuruge)](https://github.com/ThisaruGuruge)
+[![Thisaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&theme=merko)](https://github.com/ThisaruGuruge)
 
 
 <!--
