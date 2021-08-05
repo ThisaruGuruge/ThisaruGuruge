@@ -20,19 +20,19 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://twitter.com/ThisaruGuruge">
+      <a href="https://twitter.com/ThisaruGuruge" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/>
       </a>
-      <a href="https://linkedin.com/in/ThisaruGuruge">
+      <a href="https://linkedin.com/in/ThisaruGuruge" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn"/>
       </a>
-      <a href="https://thisaru.medium.com">
+      <a href="https://thisaru.medium.com" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium"/>
       </a>
-      <a href="https://facebook.com/ThisaruG">
+      <a href="https://facebook.com/ThisaruG" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="50" title="Facebook"/>
       </a>
-      <a href="https://instagram.com/ThisaruG">
+      <a href="https://instagram.com/ThisaruG" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="50" title="Instagram"/>
       </a>
     </td>
