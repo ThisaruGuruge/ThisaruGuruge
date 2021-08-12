@@ -48,6 +48,9 @@
       <a href="https://instagram.com/ThisaruG" target="_blank">
         <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="50" title="Instagram"/>
       </a>
+      <a href="https://stackoverflow.com/users/3615862/thisarug?tab=profile" target="_blank">
+        <img style="border: 0; border-style: none" border=0 src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="50" title="StackOverflow"/>
+      </a>
     </td>
   </tr>
 </table>
