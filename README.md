@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  I'm Thisaru. Currently working at <a href="https://www.wso2.com">WSO2</a>.
-  I am a developer at <a href="https://ballerina.io">Ballerina Language</a>.
+  Works <a href="https://www.wso2.com">@WSO2</a> | Developer <a href="https://ballerina.io">@Ballerina Language</a>
 </p>
 
 <p align="center">
@@ -14,12 +13,12 @@
 </p>
 
 ---
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Visit Blog](https://thisaru.medium.com)
+[Visit Blog](https://thisaru.medium.com)
 ---
 
 <h3 align="center">
