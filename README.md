@@ -13,6 +13,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&theme=chartreuse-dark" />
 </p>
 
+---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+---
+
 <h3 align="center">
   Catch me on Socila Media:
 </h3>
