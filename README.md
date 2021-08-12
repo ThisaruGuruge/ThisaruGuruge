@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [Visit Blog](https://thisaru.medium.com)
 ---
 
 <h3 align="center">
