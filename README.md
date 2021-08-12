@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&theme=chartreuse-dark" />
+  <img src="https://awesome-github-profile-readme-xi.vercel.app/api?username=ThisaruGuruge&theme=chartreuse-dark" />
 </p>
 
 ---
