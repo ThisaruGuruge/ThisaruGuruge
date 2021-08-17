@@ -23,7 +23,17 @@
 - [Ballerina Kafka Serialization with Avro](https://medium.com/ballerina-techblog/ballerina-kafka-serialization-with-avro-83126a7df9a1?source=rss-ce30d56b8733------2)
 <!-- BLOG-POST-LIST:END -->
 
-#### [Visit Blog](https://thisaru.medium.com)
+
+<a href="https://thisaru.medium.com"><h3 align="center">Visit Blog</h3></a>
+
+---
+### Technologies
+<p align="center">
+  <a href="https://profile.codersrank.io/user/thisaruguruge" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thisaruguruge&skills=java,python,ballerina,shell,bal&width=820" alt="CodersRank skills chart"/>
+  </a>
+</p>
+
 ---
 
 <h3 align="center">
