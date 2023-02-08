@@ -16,7 +16,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Subscriptions with Apache Kafka in Ballerina](https://thisaru.medium.com/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd?source=rss-ce30d56b8733------2)
+- [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd?source=rss-ce30d56b8733------2)
 - [REST is History, Let’s Do GraphQL &lpar;with Ballerina&rpar;](https://medium.com/ballerina-techblog/rest-is-history-lets-do-graphql-with-ballerina-dce7510b61e8?source=rss-ce30d56b8733------2)
 - [TENET කියවමු](https://thisaru.medium.com/tenet-%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B6%B8%E0%B7%94-3c1d543d8125?source=rss-ce30d56b8733------2)
 - [Authenticate A Shopify App Using OAuth — The Ballerina Way](https://medium.com/ballerina-techblog/authenticate-a-shopify-app-using-oauth-the-ballerina-way-f827ab99f576?source=rss-ce30d56b8733------2)
