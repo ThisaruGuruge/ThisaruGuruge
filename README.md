@@ -24,13 +24,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<a href="https://thisaru.medium.com"><h3 align="center">Visit Blog</h3></a>
+<a href="https://thisaru.me"><h3 align="center">Visit Site</h3></a>
 
 ---
 ### Technologies
 <p align="center">
   <a href="https://profile.codersrank.io/user/thisaruguruge" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thisaruguruge&skills=java,python,ballerina,shell,bal&width=820" alt="CodersRank skills chart"/>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thisaruguruge&skills=java,python,ballerina,shell,bal&width=640" alt="CodersRank skills chart"/>
   </a>
 </p>
 
