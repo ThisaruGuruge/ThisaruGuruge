@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Works <a href="https://www.wso2.com">@WSO2</a> | Developer <a href="https://ballerina.io">@Ballerina Language</a>
+  Works <a href="https://www.wso2.com">@WSO2</a> | Developer <a href="https://ballerina.io">@Ballerina Language</a> | Visit <a href="https://thisaru.me">Web Site</a>
 </p>
 
 <p align="center">
@@ -22,9 +22,6 @@
 - [REST is History, Let’s Do GraphQL &lpar;with Ballerina&rpar;](https://medium.com/ballerina-techblog/rest-is-history-lets-do-graphql-with-ballerina-dce7510b61e8?source=rss-ce30d56b8733------2)
 - [TENET කියවමු](https://thisaru.medium.com/tenet-%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B6%B8%E0%B7%94-3c1d543d8125?source=rss-ce30d56b8733------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-<a href="https://thisaru.me"><h3 align="center">Visit Site</h3></a>
 
 ---
 ### Technologies
