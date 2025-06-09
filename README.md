@@ -11,6 +11,10 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisaruGuruge&label=Profile%20views&color=0e75b6&style=flat" alt="ThisaruGuruge" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThisaruGuruge&theme=dracula&title=-Followers&row=2&column=4" alt="ThisaruGuruge" /></a> </p>
+
 ### 🔭 What I'm Up To
 
 - 🛍️ Leading development across **Ballerina libraries**, connectors, and standard modules  
