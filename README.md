@@ -8,13 +8,11 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=F76C6C&center=true&vCenter=true&width=500&lines=Hi+I'm+Thisaru;Tech+Lead+%40+WSO2;Ballerina+Language+Contributor" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🛠️ Tech I Use
 
-<p align="center"> <img src="https://img.shields.io/badge/Ballerina-52C3C2?style=for-the-badge&logo=ballerina" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/GitOps-1F425F?style=for-the-badge" /> <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge" /> </p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Ballerina-52C3C2?style=for-the-badge&logo=ballerina" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/GitOps-1F425F?style=for-the-badge" /> <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge" />
 ---
 
 ### 🔧 Featured Projects
@@ -49,6 +47,7 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 - Code → Pinned repos below  
 - Noise → [@ThisaruGuruge](https://twitter.com/ThisaruGuruge)  
 - Views → <img src="https://komarev.com/ghpvc/?username=ThisaruGuruge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+- Commits → <a href="https://user-badge.committers.top/sri_lanka/ThisaruGuruge"><img src="https://user-badge.committers.top/sri_lanka/ThisaruGuruge.svg?label=SL" alt="committers.top badge" /></a>
 
 ---
 
@@ -75,6 +74,4 @@ DM me, open an issue, or say hi [@ThisaruGuruge](https://twitter.com/ThisaruGuru
   <img src="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&show_icons=true&theme=dracula" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisaruGuruge&theme=dracula&column=3&margin-w=15&margin-h=15" />
-</p>
+
