@@ -8,11 +8,25 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=F76C6C&center=true&vCenter=true&width=500&lines=Hi+I'm+Thisaru;Tech+Lead+%40+WSO2;Ballerina+Language+Contributor" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🛠️ Tech I Use
 
-<p align="center"> <img src="https://img.shields.io/badge/Ballerina-52C3C2?style=for-the-badge&logo=ballerina" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/GitOps-1F425F?style=for-the-badge" /> <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Ballerina-52C3C2?style=for-the-badge&logo=ballerina" /> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitOps-1F425F?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge" />
+
 ---
 
 ### 🔧 Featured Projects
@@ -67,11 +81,3 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 
 Let’s talk Ballerina, GraphQL, onboarding strategies, smart homes, photography, or chaos in general.  
 DM me, open an issue, or say hi [@ThisaruGuruge](https://twitter.com/ThisaruGuruge)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&show_icons=true&theme=dracula" />
-</p>
-
-
