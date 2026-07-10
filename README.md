@@ -57,7 +57,7 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 
 ### 📌 Things to Check Out
 
-- Blog → [thisaru.me](https://thisaru.me)  
+- Blog → [thisaru.me/thoughts](https://thisaru.me/thoughts)  
 - Code → Pinned repos below  
 - Noise → [@ThisaruGuruge](https://twitter.com/ThisaruGuruge)  
 - Views → <img src="https://komarev.com/ghpvc/?username=ThisaruGuruge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -68,11 +68,11 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Federation with Ballerina and Apollo — Part II](https://medium.com/ballerina-techblog/graphql-federation-with-ballerina-and-apollo-part-ii-d05ee4fcd796?source=rss-ce30d56b8733------2)
-- [GraphQL Federation with Ballerina and Apollo — Part I](https://medium.com/ballerina-techblog/graphql-federation-with-ballerina-and-apollo-part-i-680f5aeae131?source=rss-ce30d56b8733------2)
-- [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd?source=rss-ce30d56b8733------2)
-- [REST is History, Let’s Do GraphQL &lpar;with Ballerina&rpar;](https://medium.com/ballerina-techblog/rest-is-history-lets-do-graphql-with-ballerina-dce7510b61e8?source=rss-ce30d56b8733------2)
-- [TENET කියවමු](https://thisaru.medium.com/tenet-%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B6%B8%E0%B7%94-3c1d543d8125?source=rss-ce30d56b8733------2)
+- [තමත් මැයි මාසයක්](https://thisaru.me/thoughts/193b0eee5c9c/)
+- [Not.All.Men](https://thisaru.me/thoughts/not-all-men/)
+- [පරිසරය, අධිපරිභෝජනය, හා නැවත ගල් යුගයට යෑම](https://thisaru.me/thoughts/environmentalism-consumerism-and-back-to-stone-age/)
+- [GraphQL Federation with Ballerina and Apollo - Part II](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-ii/)
+- [GraphQL Federation with Ballerina and Apollo - Part I](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
