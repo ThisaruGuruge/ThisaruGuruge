@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Thisaru
 
-Tech Lead @ [WSO2](https://wso2.com) | Core Contributor to [Ballerina](https://ballerina.io) — a cloud-native programming language for integration |
-Breaking stuff so you don’t have to. Fixing it before you notice.
+Integration Engineer & Tech Lead @ [WSO2](https://wso2.com) | Core Contributor to [Ballerina](https://ballerina.io)
 
 ---
 
@@ -26,6 +25,32 @@ Breaking stuff so you don’t have to. Fixing it before you notice.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitOps-1F425F?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&show_icons=true&theme=dark&hide_border=true&title_color=F76C6C&icon_color=F76C6C" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&show_icons=true&theme=default&hide_border=true&title_color=F76C6C&icon_color=F76C6C" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThisaruGuruge&show_icons=true&theme=default&hide_border=true&title_color=F76C6C&icon_color=F76C6C" alt="Thisaru's GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaruGuruge&layout=compact&theme=dark&hide_border=true&title_color=F76C6C" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaruGuruge&layout=compact&theme=default&hide_border=true&title_color=F76C6C" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaruGuruge&layout=compact&theme=default&hide_border=true&title_color=F76C6C" alt="Top languages" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ThisaruGuruge&theme=dark&hide_border=true&ring=F76C6C&fire=F76C6C" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ThisaruGuruge&theme=default&hide_border=true&ring=F76C6C&fire=F76C6C" />
+    <img src="https://streak-stats.demolab.com/?user=ThisaruGuruge&theme=default&hide_border=true&ring=F76C6C&fire=F76C6C" alt="GitHub streak stats" />
+  </picture>
+</p>
 
 ---
 
