@@ -85,11 +85,11 @@ Integration Engineer & Tech Lead @ [WSO2](https://wso2.com) | Core Contributor t
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [තමත් මැයි මාසයක්](https://thisaru.me/thoughts/193b0eee5c9c/)
-- [Not.All.Men](https://thisaru.me/thoughts/not-all-men/)
+- [මාස්පඩිකැපිටලිස්ට්ලා, සමාගම්, සහ රටවල්](https://thisaru.me/thoughts/capitalists-companies-and-countries/)
+- [තවත් මැයි මාසයක්](https://thisaru.me/thoughts/another-may/)
 - [පරිසරය, අධිපරිභෝජනය, හා නැවත ගල් යුගයට යෑම](https://thisaru.me/thoughts/environmentalism-consumerism-and-back-to-stone-age/)
-- [GraphQL Federation with Ballerina and Apollo - Part II](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-ii/)
-- [GraphQL Federation with Ballerina and Apollo - Part I](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-i/)
+- [GraphQL Federation with Ballerina and Apollo - Part II](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-ii/)
+- [GraphQL Federation with Ballerina and Apollo - Part I](https://thisaru.me/thoughts/graphql-federation-with-ballerina-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
