@@ -49,8 +49,8 @@ Integration Engineer & Tech Lead @ [WSO2](https://wso2.com) | Core Contributor t
 ### 🔧 Featured Projects
 
 - 🕸️ [module-ballerina-graphql](https://github.com/ballerina-platform/module-ballerina-graphql) — A fully spec-compliant GraphQL implementation for the Ballerina language  
-- 🔗 [apollo-and-ballerina](https://github.com/ThisaruGuruge/apollo-and-ballerina) — A comparison between Apollo and Ballerina GraphQL implementations and developer experience
-- ⚡️ [local-kafka-cluster](https://github.com/ThisaruGuruge/local-kafka-cluster) — Lightweight Kafka dev setup for local testing
+- 🔗 [bestow](https://github.com/redipierrot/bestow) — Modern and fast alternative for GNU stow as a symlink manager.
+- ⚡️ [ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) — NeoVim plugin for Ballerina Language with syntax highlighting, build, test, code actions, lsp support, etc.
 
 ---
 
