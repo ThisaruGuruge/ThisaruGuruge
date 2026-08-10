@@ -40,8 +40,8 @@ Integration Engineer & Tech Lead @ [WSO2](https://wso2.com) | Core Contributor t
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisaruGuruge&theme=tokyonight&animation=draw&exclude=HTML%2CCSS%2CJavaScript%2CTypeScript" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThisaruGuruge&theme=tokyonight&animation=draw&exclude=HTML%2CCSS%2CJavaScript%2CTypeScript" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisaruGuruge&theme=tokyonight&animation=draw&exclude=HTML%2CCSS%2CJavaScript%2CTypeScript%2CShell" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThisaruGuruge&theme=tokyonight&animation=draw&exclude=HTML%2CCSS%2CJavaScript%2CTypeScript%2CShell" />
 </p>
 
 ---
